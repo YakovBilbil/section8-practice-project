@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7513c738.css",
-    "main.js": "/static/js/main.a18860b7.js",
-    "static/js/787.add964c9.chunk.js": "/static/js/787.add964c9.chunk.js",
-    "index.html": "/index.html",
-    "main.7513c738.css.map": "/static/css/main.7513c738.css.map",
-    "main.a18860b7.js.map": "/static/js/main.a18860b7.js.map",
-    "787.add964c9.chunk.js.map": "/static/js/787.add964c9.chunk.js.map"
+    "main.css": "/YakovBilbil/section8-practice-project.git/static/css/main.7513c738.css",
+    "main.js": "/YakovBilbil/section8-practice-project.git/static/js/main.280afca6.js",
+    "static/js/787.add964c9.chunk.js": "/YakovBilbil/section8-practice-project.git/static/js/787.add964c9.chunk.js",
+    "index.html": "/YakovBilbil/section8-practice-project.git/index.html",
+    "main.7513c738.css.map": "/YakovBilbil/section8-practice-project.git/static/css/main.7513c738.css.map",
+    "main.280afca6.js.map": "/YakovBilbil/section8-practice-project.git/static/js/main.280afca6.js.map",
+    "787.add964c9.chunk.js.map": "/YakovBilbil/section8-practice-project.git/static/js/787.add964c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7513c738.css",
-    "static/js/main.a18860b7.js"
+    "static/js/main.280afca6.js"
   ]
 }
